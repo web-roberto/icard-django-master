@@ -1,4 +1,5 @@
 
+Procfile tenia la extiensio .txt y no debe tener ninguna extension
 
 ejecuto en la consola del proyecto de mi pc:  heroku ps:scale web=1
 

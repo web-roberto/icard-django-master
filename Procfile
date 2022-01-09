@@ -1,1 +1,1 @@
-web: gunicorn --pythonpath icard-roberto icard-roberto.wsgi
+web: gunicorn icard-roberto.wsgi --log-file
