@@ -1,0 +1,6 @@
+
+
+ejecuto en la consola del proyecto de mi pc:  heroku ps:scale web=1
+
+ejecuto en la consola del proyecto:
+heroku run web gunicorn --pythonpath icard-roberto icard-roberto.wsgi
